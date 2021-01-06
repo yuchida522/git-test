@@ -2,3 +2,6 @@
 
 def test_function():
     pass
+
+def try_this():
+    return "Hello World"

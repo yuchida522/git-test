@@ -7,3 +7,7 @@ def test_function():
 
 def test_2():
     pass
+
+
+def test_3():
+    pass

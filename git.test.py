@@ -11,3 +11,7 @@ def try_this():
 
 def test_2():
     pass
+
+
+def test_4():
+    pass

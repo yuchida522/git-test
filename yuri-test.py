@@ -3,3 +3,6 @@ def yuri():
 
 def test():
     pass
+
+def conflict():
+    return 'There will be a conflict'
